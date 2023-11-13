@@ -1,0 +1,10 @@
+#TYPE System.Management.Automation.PSCustomObject,,,,
+Name,Group,GroupContents,ObjectClass,Alert
+PC-08,Remote Desktop Users,Null,Null,PC is on Ignore List
+PC-07,Remote Desktop Users,Null,Null,PC has no Accounts in Group
+PC-06,Remote Desktop Users,Null,Null,PC has no Accounts in Group
+Computer-7,Remote Desktop Users,Null,Null,PC has no Accounts in Group
+Computer-5,Remote Desktop Users,Null,Null,PC has no Accounts in Group
+Computer-4,Remote Desktop Users,Null,Null,PC has no Accounts in Group
+Computer-1,Remote Desktop Users,DOMAIN\AdminGroup,Group,TEMP
+Computer-1,Remote Desktop Users,DOMAIN\Steven.Aaron,User,TEMP
